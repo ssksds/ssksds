@@ -3,13 +3,14 @@
 
 # portfolio
 
-<img height="300px" width="100%" src="https://jusmarktech.com/public/a/images/pages/web_development.gif"/>
+<img height="400px" width="100%" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2020/01/React-js-developer-min.png"/>
 <h1 align="center">Hi 👋, I'm sriram boksa</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-bisht&label=Profile%20views&color=0e75b6&style=flat" alt="parth-bisht" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth-bisht" alt="parth-bisht" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/SskSds" target="blank"><img src="https://img.shields.io/twitter/follow/parthbi40128754?logo=twitter&style=for-the-badge" alt="parthbi40128754" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"/>
